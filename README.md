@@ -1,1 +1,1 @@
-He mejorado la estructura HTML usando etiquetas semánticas como <header>, <nav>, <main>, <article>, <aside> y <footer> para definir claramente las secciones de la página. Además, sustituí los elementos div por <time>, <address> y <section>.
+He mejorado la estructura HTML usando etiquetas semánticas como header, nav, main, article, aside y footer para definir claramente las secciones de la página. Además, sustituí los elementos div por time, address y section.
